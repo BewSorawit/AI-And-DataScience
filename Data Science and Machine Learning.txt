@@ -1,0 +1,7 @@
+Data Science and Machine Learning:
+
+	- NumPy: Fundamental package for scientific computing with Python.
+	- Pandas: Data manipulation and analysis library.
+	- Matplotlib and Seaborn: Plotting and data visualization libraries.
+	- Scikit-learn: Simple and efficient tools for data mining and data analysis.
+	- TensorFlow and PyTorch: Deep learning frameworks.- 
